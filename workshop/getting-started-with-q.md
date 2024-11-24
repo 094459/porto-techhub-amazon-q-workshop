@@ -164,9 +164,11 @@ The guardrails provide important protection for users of Amazon Q, and the tensi
 
 ---
 
-**Additional learning resources**
-
-I have just covered the basics here, but we are always plublishing new content that shows how other developers are doing cool things with Amazon Q Developer. If you want to know more, head over to [community.aws](https://community.aws/amazon-q)
+>
+> **Additional learning resources**
+> 
+> I have just covered the basics here, but we are always plublishing new content that shows how other developers are doing cool things with Amazon Q Developer. If you want to know more, head over to [community.aws](https://community.aws/amazon-q)
+>
 
 ### Getting hands on in the sandbox
 
