@@ -68,13 +68,25 @@ We learned in the previous labs that to get the best out of generative AI develo
 
 ## 4. Building our application - defining the data model
 
+We are now ready to start building our application. We are going to build a **customer feedback survey** application, and the first step is to define the data model.
+
+[Follow this link]() where we will see how Amazon Q Developer wil help us create our data model and more!
+
 ---
 
 ## 5. Building our applicaiton - using Amazon Q Developer Agent for software development
 
+With our data model now created, we can start building the application. We are going to use some of the more advanced capabilities of Amazon Q Developer to help create the code application, troubleshoot any issues that arise, and get the first version of our application up and running.
+
+[Folow this link]() to start diving into building the application.
+
 ---
 
 ## 6. Building our application - improving the application
+
+We have a working applicaiton but we still have lots to do. In this last lab we will look at how we can use Amazon Q Developer to simplify some of those tasks, as well as automate many more. Whether that is testing, creating documentation, or more.
+
+[Folow this link]() to finish up our customer feedback application.
 
 ---
 
