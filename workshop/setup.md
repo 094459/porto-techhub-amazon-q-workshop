@@ -1,6 +1,6 @@
 ![Amazon Q Developer header](/images/q-vscode-header.png)
 
-## Setting up, and getting starting with Amazon Q Developer (20 min)
+## Setting up, and getting starting with Amazon Q Developer
 
 We are now ready for the first hands on part of this lab, setting up the generative AI developer tooling we are going to be using. We are going to be using Amazon Q Developer, a next generation developer tool that provides you with in-line code suggestions and a chat interface to help your developer flow. This is installed into your IDE (VSCode and IntelliJ are supported) via a plugin. Once the plugin is installed, we need to login using something that is called a Builder ID account. This allows you to access the Free Tier of Amazon Q Developer, without the need for an AWS account. So we first need to set that up, and then install the Amazon Q Developer plugin.
 

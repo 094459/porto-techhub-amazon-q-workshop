@@ -413,29 +413,6 @@ One of the questions you might be asking yourself is as Amazon Q Developer provi
 
 Check out [this very short video](https://www.youtube.com/shorts/Fmn37wGQUY8) that shows what this looks like when it does happen.
 
----
-
-### 10. Amazon Q AI Guardrails
-
-In this last section we take a look at something that you are probably going to encounter as you use Amazon Q Developer - the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/).
-
-Occasionally as you use and interact with Amazon Q Developer in any of the different modalities (chat, /dev, @workspace, or in-lin), the output may come to an stop and you will be greeted a message.
-
-![Guardrail message one](/images/q-vscode-guardrail.png)
-
-The message might take other forms, for example with an error popup appearing in the bottom right of VSCode.
-
-![Guardrail tripping](/images/q-vscode-error.png)
-
-If you do encounter these, then try:
-
-* adjusting the prompt - use different words, change the order
-* test this against different files in your repo - sometimes it can be just one file that trips the guardrails, so you can narrow down where Amazon Q is tripping up
-* review the Amazon Q Logs to see if you can find any information that might help you identify the root issue
-
-The guardrails provide important protection for users of Amazon Q, and the tension between what will work and what trips them is changing all the time.
-
-
 ### Complete!
 
 Ok, you are now up to speed with the Amazon Q Developer plugin, and it is time to see what you can achieve with it. Head over to the next section [Breaking down problems](breaking-down-problems.md).
