@@ -70,7 +70,7 @@ We learned in the previous labs that to get the best out of generative AI develo
 
 We are now ready to start building our application. We are going to build a **customer feedback survey** application, and the first step is to define the data model.
 
-[Follow this link]() where we will see how Amazon Q Developer wil help us create our data model and more!
+[Follow this link](workshop/building-our-app-part-1.md) where we will see how Amazon Q Developer wil help us create our data model and more!
 
 ---
 
