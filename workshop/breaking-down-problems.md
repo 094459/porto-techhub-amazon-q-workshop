@@ -45,6 +45,13 @@ The "Prompt" or "Chat Interface" is how tools like Amazon Q Developer know what 
 
 ---
 
+**Managing your prompts**
+
+It is important to get into **"Daily habits"** of using Amazon Q that will quickly help you learn what works well, and what does not. When I first started using Q I only used it occasionally, and it wasnt until I started using it daily that I better understood how to use the tool, and Amazon Q start producing much better output for me.
+
+Saving the prompts that work well for you is an important milestone that will help you start to get more consistently good output from Amazon Q. I used to use a makrdown doc, but now I am beginning to use a new tool created by an AWS Community Builder, Christian Bonzelete, called [Promptz](https://www.promptz.dev/). You can login and save your own prompts, as well as see what prompts others have created and try these out. This is very new so take a look and make sure you bookmark it and add your own prompts.
+
+---
 **Complete:** You have now had some practice breaking down problems into smaller tasks, and we can now proceed with the first part of building our application in [Part One](building-our-app-part-1.md)
 
 

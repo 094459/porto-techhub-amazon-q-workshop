@@ -52,12 +52,17 @@ You do not need an AWS account to use the Amazon Q Developer plugin. You can use
 
 ## 2. Learning about and exploring Amazon Q Developer capabilities
 
+Once we have the Amazon Q Developer plugin installed, setup, and configured, we are ready to explore its capabilities. In this lab we are going to go over the features in detail and provide your first opportunity to get hands on.
+
+[Follow this link](workshop/getting-started-with-q.md) to explore the wonderful world of Amazon Q Developer
 
 ---
 
-
 ## 3. Breaking down problems
 
+We learned in the previous labs that to get the best out of generative AI developer tools, we need to understand how to break down the problems we are working on into smaller tasks. Amazon Q Developer like other AI coding tools, work best when we provide **specific** and concrete **smaller** tasks with the right level of **clarity**.
+
+[Follow this link](workshop/breaking-down-problems.md) where we will explore some ideas on how to do this.
 
 ---
 
