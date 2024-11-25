@@ -78,7 +78,7 @@ We are now ready to start building our application. We are going to build a **cu
 
 With our data model now created, we can start building the application. We are going to use some of the more advanced capabilities of Amazon Q Developer to help create the code application, troubleshoot any issues that arise, and get the first version of our application up and running.
 
-[Folow this link]() to start diving into building the application.
+[Folow this link](workshop/building-our-app-part-2.md) to start diving into building the application.
 
 ---
 
