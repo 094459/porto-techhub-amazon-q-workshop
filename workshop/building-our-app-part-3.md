@@ -9,16 +9,12 @@ In our final lab we are going to get our application ready for shipping. We are 
 * Look at what we need to do to make our project "Open Source"
 * Add documentation to our project, creating a README file
 
-**Lab 03-1 Running a Security Scan**
+---
+
+**Task 16**
 
 We have some code, but how robust is it? In this lab we are going to use a feature of Amazon Q Developer to scan the project and help us shift left with security. This allows us to proactively detect and then resolve issues in our code, closing that feedback loop. Lets see how this works.
 
-We are going to checkout a branch of the application that we have just finished working on. Run the following commands
-
-```
-git checkout lab-08
-```
-**Task 16**
 
 1/ Click on the Amazon Q on the bottom status bar to bring up the Amazon Q Developer options, and select "Run Project Scan" from the menu. You should see that this kicks off and a popup will appear in the bottom right of your VSCode.
 
@@ -61,21 +57,11 @@ This time we get success. Review the code changes and implement. As you do this 
 
 This might take some time as you will encounter errors as you implement the updates. Use the chat interface to help you address these issues and update the code accordingly.
 
-If you want to review the code from the baseline project, exit the running application and then use the following to view the code.
-
-```
-git checkout lab-09
-```
+---
 
 **Task 17**
 
 We now have a working application, but what we do not have is any tests. In this lab we are going to create some, using one of the advanced features of Amazon Q Developer, the Agent for software development (or /dev). There is a bit of waiting whilst this is working, so feel free to grab a refreshment while it is running or stretch your legs!
-
-We will start from a working version of our code.
-
-```
-git checkout lab-09
-```
 
 If you are new to writing tests, we can get some hints from Amazon Q Developer in the Chat interface by typing the following prompt:
 
@@ -116,11 +102,7 @@ Use the output from the test errors to help guide you to both fix the tests but 
 
 and then adding this to your Pytest configuration file as a way of switching this off.
 
-Do not spend too much time in this lab - you may not get all the tests running, but see if you can get some working ok. If you get stuck, then you can see the working code by checking out the [following branch](https://github.com/094459/q-developer-workshop-demo-code/tree/lab-10)
-
-```
-git checkout lab-10
-```
+---
 
 **Task 18**
 
@@ -148,6 +130,7 @@ Explore this and update the code.
 
 If you get stuck, or want to see the completed sample I came up with, check out the [branch here]() or you can switch branch using the following command:
 
+---
 
 **Task 19**
 
@@ -160,9 +143,6 @@ We are going to do this using a number of techniques as I find that as you write
 
 We will work from the baseline project code, so stop the application if it is currently running and then from the terminal:
 
-```
-git checkout lab-010
-```
 
 *Documenting code blocks*
 
@@ -203,25 +183,14 @@ When it has produced the updated code and documentation, do NOT automatically ac
 
 Once you have experimented with this, you can compare how your documentation looks like with the workshop baseline code
 
-```
-git checkout lab-12
-```
+---
 
-**Task 20**
+### Congratulations!
 
-We have now completed the labs and we can clean up and remove all files we used. Close all the chat tabs in the Amazon Q chat interface, and all tabs/files in VSCode. From a terminal window delete the folder you have been using during this workshop.
-
-If you want to access these again in the future, you can access this workshop at [Amazon Q Workshop](https://github.com/094459/q-developer-hands-on/blob/main/README.md)
+You now have completed thie workshop, congratulations.
 
 One final ask is to complete a survey. This will unlock some additional content, including 30 tips to help you supercharge your Amazon Q development.
 
 [Take the survey here](https://pulse.aws/survey/1DM5TAZU)
 
-
-
-**Complete:** You now have completed thie workshop, congratulations. 
-
-
 You can return back to the [Starting Page](/README.md) to find out about additional resources that will help you stay on top of new updates and improvements with Amazon Q Developer.
-
-We are driven by customer feedback, and I would appreciate you also completing a feedback form before you go.
