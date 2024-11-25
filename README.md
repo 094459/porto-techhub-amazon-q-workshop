@@ -15,8 +15,10 @@ You will need VScode IDE (or as an alternative, IntelliJ) with the following VSC
 
 * VSCode
 * Amazon Q Developer plugin - https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode 
-* (optinal) The SQLlite Viewer - https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer
-* git
+* The SQLlite Viewer - https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer
+* The Enhanced Markdown Viewer - https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
+
+-
 
 **How do follow along**
 
@@ -26,6 +28,7 @@ Everyone running through this lab will have a different experience, but I hope t
 
 If you are working through this in a group setting, then the person running the lab will lead from the front and you can take your guidance from them.
 
+-
 
 **Overview**
 
