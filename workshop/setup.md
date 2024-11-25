@@ -26,7 +26,7 @@ When you hear the term Builder ID when working with AWS services, this is the ac
 
 **Installing Amazon Q Developer**
 
-Now that we have our Builder ID profile, lets install the Amazon Q Developer plugin. From the Extensions side bar, click on the icon to view the extensions marketplace. Search for "Amazon Q Developer" and you should be able to locate the Amazon Q Developer plugin (1). As of writing the latest version is v1.33.0. This is updated on a very regular basis, so make sure you either use the auto update, or check in regularly to take advantage of the improvements that are being made on a weekly basis.
+Now that we have our Builder ID profile, lets install the Amazon Q Developer plugin. From the Extensions side bar, click on the icon to view the extensions marketplace. Search for "Amazon Q Developer" and you should be able to locate the Amazon Q Developer plugin (1). As of writing the latest version is v1.37.0. This is updated on a very regular basis, so make sure you either use the auto update, or check in regularly to take advantage of the improvements that are being made on a weekly basis.
 
 ![Installing the Amazon Q Developer plugin](/images/q-vscode-install-1.png)
 
