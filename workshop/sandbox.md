@@ -189,6 +189,33 @@ Once you enter the prompt, it will now start to work. You cannot select differen
 
 I find this mode very powerful and improves the speed at which I can make updates/changes to my code. It tends to work well for specific ways you might want to work - updating existing code blocks for example, adding new functions, asking for optiisations, adding try / catch blocks, and more.
 
+*Software Quality*
+
+A quick way that I use the inline prompt is to improve the quality of the code produced, by making sure that I am able to reduce the amount of errors that the code generates. Two ways Amazon Q makes this easy is by adding error handling, and implementing techniques such as negative space programming.
+
+1/ From your VSCode, create a new file called "quality.py" and copy the contents of [this file](https://github.com/094459/porto-techhub-amazon-q-workshop/blob/main/resources/in-line.py) into it. Save the file.
+
+2/ Select this block of code:
+
+```
+@app.route('/hello/<name>')
+def hello_name(name):
+    return 'Hello %s!' % name
+```
+
+3/ Press COMMAND + I to bring up the inline prompt, and now type the following:
+
+> add error handling to this function
+
+Review the output. Press ESC once you have had the chance to understand the code, as we do not want to accept this code
+
+4/ Highlight the same code and invoke the inline editor again. This time, use this prompt:
+
+> apply negative space programming to this function
+
+Review the output. How was it different. You could also apply both to the same code block.
+Press ESC again to reject the code. Close the file and delete it ("quality.py")
+
 ---
 
 ### 2. Using the VSCode Menu integration

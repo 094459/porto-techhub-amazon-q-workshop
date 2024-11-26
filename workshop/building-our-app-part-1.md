@@ -35,7 +35,7 @@ You are now ready to go.
 
 ---
 
-**Lab 01-1 Our application - Creating our Data Model**
+**Creating our application - Creating our Data Model**
 
 The application we want to build is a simple tool for collecting customer feedback. We are going to start by using Amazon Q Developer to help us define the data model for this application, providing various prompts that will help provide a good starting point of what we want our data model to look like. Once we have our data model, we can then start to create some code artefacts.
 
